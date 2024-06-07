@@ -28,4 +28,9 @@ Objetivos do Projeto:
 4. **Popper.js:** Biblioteca utilizada para lidar com pop-ups e modais no projeto.
 5. **Bootstrap JS:** Biblioteca JavaScript do Bootstrap utilizada para adicionar funcionalidades como modais e carrosséis.
 6. **URLSearchParams:** API do JavaScript utilizada para manipular parâmetros da URL.
-   
+
+# 👷 Autor
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+  
+# 📄 Licença
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]()  
