@@ -33,4 +33,4 @@ Objetivos do Projeto:
 * **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
-- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]()  
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/FootCoder/tree/main?tab=MIT-1-ov-file)  
