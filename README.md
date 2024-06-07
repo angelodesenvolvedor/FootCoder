@@ -28,7 +28,4 @@ Objetivos do Projeto:
 4. **Popper.js:** Biblioteca utilizada para lidar com pop-ups e modais no projeto.
 5. **Bootstrap JS:** Biblioteca JavaScript do Bootstrap utilizada para adicionar funcionalidades como modais e carrosséis.
 6. **URLSearchParams:** API do JavaScript utilizada para manipular parâmetros da URL.
-7. **Git e GitHub:** Utilizados para controle de versão e hospedagem do código-fonte do projeto.
-8. **Visual Studio Code:** Editor de código utilizado para desenvolvimento do projeto.
-
    
