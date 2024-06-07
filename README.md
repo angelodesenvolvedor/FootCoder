@@ -19,3 +19,16 @@ Objetivos do Projeto:
 - Implementar diferentes métodos de pagamento para atender às preferências dos clientes.
 - Garantir uma experiência de usuário suave e intuitiva em todo o site.
 - Proporcionar uma experiência de compra segura e conveniente para os usuários.
+
+📦 **Tecnologias Utilizadas no Projeto:**
+
+1. **HTML5 e CSS3:** Utilizados para a estruturação e estilização do layout da página.
+2. **Bootstrap:** Framework de front-end utilizado para o desenvolvimento responsivo e componentes de interface.
+3. **JavaScript:** Utilizado para adicionar interatividade e dinamismo ao site, como manipulação do DOM e tratamento de eventos.
+4. **Popper.js:** Biblioteca utilizada para lidar com pop-ups e modais no projeto.
+5. **Bootstrap JS:** Biblioteca JavaScript do Bootstrap utilizada para adicionar funcionalidades como modais e carrosséis.
+6. **URLSearchParams:** API do JavaScript utilizada para manipular parâmetros da URL.
+7. **Git e GitHub:** Utilizados para controle de versão e hospedagem do código-fonte do projeto.
+8. **Visual Studio Code:** Editor de código utilizado para desenvolvimento do projeto.
+
+   
