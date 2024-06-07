@@ -20,7 +20,7 @@ Objetivos do Projeto:
 - Garantir uma experiência de usuário suave e intuitiva em todo o site.
 - Proporcionar uma experiência de compra segura e conveniente para os usuários.
 
-📦 **Tecnologias Utilizadas no Projeto:**
+# 📦Tecnologias Utilizadas no Projeto:
 
 1. **HTML5 e CSS3:** Utilizados para a estruturação e estilização do layout da página.
 2. **Bootstrap:** Framework de front-end utilizado para o desenvolvimento responsivo e componentes de interface.
